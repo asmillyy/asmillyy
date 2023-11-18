@@ -1,9 +1,9 @@
 - Hi, I’m @asmillyy
 - I’m interested in desenvolver
 - Studying computer technology
-- Contact: andradesantoscamilly3@gmail.com
+- Contact: andradesantoscamilly3@gmail.com"h
 - Prounouns: ela/dela
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgizmodo.uol.com.br%2Fgif-remasterizado-3-milhoes-leilao-criptoarte%2F&psig=AOvVaw10oiaS2ZcE4QPgLUNTqdkk&ust=1700424421342000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMiFgautzoIDFQAAAAAdAAAAABAE">
+  <img src=https://i.pinimg.com/736x/56/41/94/56419465c8df9148f4851bc61232f314.jpg>
 <!---
 asmillyy/asmillyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
