@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @asmillyy
-- 👀 I’m interested in desenvolver
+- Hi, I’m @asmillyy
+- I’m interested in desenvolver
+- Studying computer technology
+- Prounouns: ela/dela
   
 <!---
 asmillyy/asmillyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
